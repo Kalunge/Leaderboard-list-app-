@@ -1,0 +1,47 @@
+.scores {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  border-bottom: solid 3px black;
+  border-right: solid 3px black;
+  border-top: solid 1px black;
+  border-left: solid 1px black;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.score {
+  display: flex;
+  border: solid 3px black;
+  align-content: center;
+  align-items: center;
+}
+
+.leaderboard {
+  border: solid 3px black;
+  width: 75%;
+  padding-left: 0;
+  overflow-y: scroll;
+}
+
+.leaderboard :nth-child(odd) {
+  background-color: lightgray;
+}
+
+li {
+  list-style: none;
+  margin: 0.5%;
+}
+
+.form-control {
+  width: 60%;
+}
+
+.right {
+  margin-left: 45%;
+}
