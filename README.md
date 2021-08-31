@@ -1,10 +1,7 @@
 # Leaderboard-list-app-
-# TODOLIST
 ![](https://img.shields.io/badge/microverse-blueviolet)
 
 A leaderboard app made using webpack and served by a webpack dev server.
-![Screenshot from 2021-08-17 14-39-58](https://user-images.githubusercontent.com/50773868/129737215-b3d025ac-0ba6-4dc7-a4dd-796cbc3561e6.png)
-
 
 
 ## Built With
