@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/microverse-blueviolet)
 
 A leaderboard app made using webpack and served by a webpack dev server.
-
+![Screenshot from 2021-08-31 10-59-48](https://user-images.githubusercontent.com/50773868/131490480-875e9027-8139-4c04-8f2e-bc461ca6367f.png)
 
 ## Built With
 
@@ -35,7 +35,7 @@ git clone https://github.com/kalunge/Leaderboard-list-app.git
   > `npm run start`
 
 ## live Demo
-click [live] (https://kalunge.github.io/Leaderboard-list-app-/) to view live version
+click [here](https://kalunge.github.io/Leaderboard-list-app-/) to view live version
 
 ## Author
 
