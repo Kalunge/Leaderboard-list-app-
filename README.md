@@ -35,7 +35,7 @@ git clone https://github.com/kalunge/Leaderboard-list-app.git
   > `npm run start`
 
 ## live Demo
-[live](https://kalunge.github.io/Leaderboard-list-app-/)
+click [live] (https://kalunge.github.io/Leaderboard-list-app-/) to view live version
 
 ## Author
 
