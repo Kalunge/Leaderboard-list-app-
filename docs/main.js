@@ -1,5 +1,4 @@
-/* eslint-disable */
-(() => {
+/* eslint-disable */ (() => {
   'use strict';
   var e,
     n,
