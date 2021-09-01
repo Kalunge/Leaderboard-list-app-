@@ -14,25 +14,21 @@
       <div class="col mt-5 scores">
         <div class="row">
           <h2 class="col-6">Recent Scores</h2>
-          <button class="btn btn-light col-2 button">Refresh</button>
+          <button id="refresh" class="btn btn-light col-2 button">Refresh</button>
         </div>
         <ul class="leaderboard mt-3 py-2">
-          <li>name : score</li>
-          <li>name : score</li>
-          <li>name : score</li>
-          <li>name : score</li>
         </ul>
       </div>
       <div class="col mt-5">
         <form>
           <div class="mb-3">
             <h3>Add your Score</h3>
-            <input type="email" class="form-control" id="name" placeholder="Your Name">
+            <input type="text" class="form-control" id="name" placeholder="Your Name">
           </div>
           <div class="mb-3">
             <input type="number" placeholder="Your Score" class="form-control" id="score">
           </div>
-          <button type="submit" class="btn btn-light right button">Submit</button>
+          <button type="submit" id="button" class="btn btn-light right button">Submit</button>
         </form>
       </div>
     </div>
