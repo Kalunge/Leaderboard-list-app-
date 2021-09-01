@@ -27,9 +27,10 @@ body {
   width: 75%;
   padding-left: 0;
   overflow-y: scroll;
+  height: 60vh;
 }
 
-.leaderboard :nth-child(odd) {
+.leaderboard :nth-child(even) {
   background-color: lightgray;
 }
 
