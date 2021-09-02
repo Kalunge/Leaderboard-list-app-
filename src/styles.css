@@ -13,6 +13,7 @@
 body {
   font-family: sans-serif;
   font-weight: bold;
+  background-color: cyan;
 }
 
 .score {
@@ -27,7 +28,7 @@ body {
   width: 75%;
   padding-left: 0;
   overflow-y: scroll;
-  height: 60vh;
+  height: 55vh;
 }
 
 .leaderboard :nth-child(even) {
@@ -45,4 +46,14 @@ li {
 
 .right {
   margin-left: 45%;
+}
+
+footer {
+  text-align: center;
+}
+
+.spinner {
+  margin-left: 50%;
+  margin-top: 50%;
+  font-size: 100px;
 }
