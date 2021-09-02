@@ -16,21 +16,29 @@
           <h2 class="col-6">Recent Scores</h2>
           <button id="refresh" class="btn btn-light col-2 button">Refresh</button>
         </div>
-        <ul class="leaderboard mt-3 py-2">
-        </ul>
+        <div class="leaderboard mt-3 py-2 ">
+          <div class="spinner-border text-danger spinner" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
       </div>
       <div class="col mt-5">
-        <form>
+        <form >
           <div class="mb-3">
             <h3>Add your Score</h3>
-            <input type="text" class="form-control" id="name" placeholder="Your Name">
+            <input type="text" class="form-control mb-5 mt-3 py-2" id="name" placeholder="Your Name">
           </div>
           <div class="mb-3">
-            <input type="number" placeholder="Your Score" class="form-control" id="score">
+            <input type="number" placeholder="Your Score" class="form-control my-5 py-2" id="score">
           </div>
           <button type="submit" id="button" class="btn btn-light right button">Submit</button>
         </form>
       </div>
     </div>
+    <footer class="pt-2 fixed-bottom px-3 bg-light border-secondary border-top mt-2">
+      <div>
+        <p>&copy; Kalunge 2021</p>
+      </div>
+    </footer>
   </body>
 </html>
