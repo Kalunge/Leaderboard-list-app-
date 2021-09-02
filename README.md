@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/microverse-blueviolet)
 
 A leaderboard app made using webpack and served by a webpack dev server.
-![Screenshot from 2021-08-31 10-59-48](https://user-images.githubusercontent.com/50773868/131490480-875e9027-8139-4c04-8f2e-bc461ca6367f.png)
+![Screenshot from 2021-09-02 09-51-34](https://user-images.githubusercontent.com/50773868/131813917-7fd7f6a6-77a5-494f-89b9-fad0a0518dab.png)
+![Screenshot from 2021-09-02 09-51-31](https://user-images.githubusercontent.com/50773868/131813923-7789ff32-fb45-4c92-960c-d99cf81da614.png)
+
 
 ## Built With
 
